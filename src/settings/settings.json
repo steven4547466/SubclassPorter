@@ -1,0 +1,13 @@
+{
+  "web" : {
+    "port" : 4950
+  },
+  "internal" : {
+    "ssl" : {
+      "privateKeyLocation" : "",
+      "certificateLocation" : "",
+      "chainLocation" : ""
+    }
+  },
+  "secure": false
+}
